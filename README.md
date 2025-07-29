@@ -3,6 +3,8 @@
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server that provides tools for fetching and analyzing Reddit content.
 
+[![MCPHub.com Badge](https://mcphub.com/api/mcp-servers/adhikasp/mcp-reddit/badge)](https://mcphub.com/mcp-servers/adhikasp/mcp-reddit)
+
 <a href="https://glama.ai/mcp/servers/3cg9gdyors"><img width="380" height="200" src="https://glama.ai/mcp/servers/3cg9gdyors/badge" alt="mcp-reddit MCP server" /></a>
 
 ## Features
@@ -71,3 +73,4 @@ The most upvoted thread is the Dev Diary #126, which provides an in-depth look a
 
 Would you like me to elaborate on any of these points or provide more details about the Victoria 3 update?
 ``` 
+ (this is a test)
